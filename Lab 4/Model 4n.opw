@@ -1,0 +1,18 @@
+[RESOURCES]
+Resource 4
+Resource 3
+Resource 2
+Resource 1
+[VARIABLES]
+Male Queue.NumberOut
+Male Queue.NumberIn
+Booth 1.NumberOut
+Enter.NumberOut
+Booth 2.NumberIn
+Booth 2.NumberOut
+Exit.NumberOut
+Booth 1.NumberIn
+Select.NumberOut True
+Female Queue.NumberIn
+Select.NumberOut False
+Female Queue.NumberOut

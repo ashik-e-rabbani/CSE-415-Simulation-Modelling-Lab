@@ -1,0 +1,10 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Decide 1.NumberOut False
+WINNERS.NumberOut
+ENTER SHOP.NumberOut
+MANGO PEOPLE.NumberOut
+SERVICE QUEUE.NumberIn
+SERVICE QUEUE.NumberOut
+Decide 1.NumberOut True

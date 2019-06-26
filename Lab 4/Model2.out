@@ -1,0 +1,50 @@
+
+                                      ARENA Simulation Results
+                                      Ashik - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/30/2019
+Analyst: Ashik                                                       Model revision date: 3/30/2019
+
+Replication ended at time      : 10.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .02388     (Insuf)    .00000     .03324        107    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        107    
+Entity 1.WaitTime                           .00477     (Insuf)    .00000     .04396        107    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        107    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        107    
+Entity 1.TotalTime                          .02866     (Insuf)    .00000     .06530        107    
+SERVICE QUEUE.Queue.WaitingTime             .00511     (Insuf)    .00000     .04396        100    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .30662     (Insuf)    .00000     3.0000     .00000    
+Resource 1.NumberBusy                       .25555     (Insuf)    .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .25555     (Insuf)    .00000     1.0000     .00000    
+SERVICE QUEUE.Queue.NumberInQueue           .05106     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           107.00    
+Entity 1.NumberOut                          107.00    
+Resource 1.NumberSeized                     100.00    
+Resource 1.ScheduledUtilization             .25555    
+System.NumberOut                            107.00    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.

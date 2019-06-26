@@ -1,0 +1,10 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Happy Exit.NumberOut
+Sad Exit.NumberOut
+Enter Shop.NumberOut
+Decide.NumberOut False
+Decide.NumberOut True
+Service Queue.NumberIn
+Service Queue.NumberOut

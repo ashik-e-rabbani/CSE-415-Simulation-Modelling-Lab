@@ -1,0 +1,11 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Exit.NumberOut
+Decision.NumberOut False
+Decision.NumberOut True
+Booth.NumberIn
+Customer Arrival.NumberOut
+Queue.NumberOut
+Booth.NumberOut
+Queue.NumberIn
